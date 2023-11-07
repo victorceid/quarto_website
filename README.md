@@ -14,12 +14,6 @@ In addition open RStudio and update to the latest version by clicking "Help" "Ch
 
 ### Copy this template (GitHub)
 
-- [ ] 1. Click the green "Use this template" button above. (You need to login to GitHub to see this option). Choose the "Create a new repository" option. DO NOT FORK THE REPO. Choose a descriptive name for your repo based on your content. (Unlike when you fork a repo, you get to choose the name. If you change your mind before you do any work, delete your new repo and start over.) Leave the "Public" option checked or else GitHub Pages won't work.
-
-### Set up Pages (GitHub)
-
-- [ ] 1. You've now left the template page and are viewing your new repo on GitHub. On the home page, click Settings. Click the "Pages" section on the left. In the **Build and Deployment** section, set **Source** to "Deploy from a branch" (Classic Pages experience) and **Branch** to **main** with **/docs** folder. Click Save. 
-
 - [ ] 2. Click the little gear button near "About" on the top right side of the home page of the repo and check the "Use your Github Pages website" box under "Website". Click "Save changes". Test the link and you should see a web site with a stick figure on it. It may take a few minutes to build so if it's not working do a few more steps and then come back to check.
 
 ### Copy the repo link (GitHub)
